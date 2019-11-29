@@ -20,6 +20,13 @@
     </plugins>
   </build>
 
+  <contributors>
+    <contributor>
+      <name>Pavel Luhin</name>
+      <email>pavel.luhin@gmail.com</email>
+    </contributor>
+  </contributors>
+
   <dependencies>
     <dependency>
       <groupId>org.springframework</groupId>
