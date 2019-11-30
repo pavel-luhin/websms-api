@@ -5,6 +5,16 @@
   <groupId>com.pluhin.api</groupId>
   <artifactId>websms-api</artifactId>
   <version>1.1-SNAPSHOT</version>
+
+  <name>WebSms Api</name>
+  <description>Api methods to access websms.by</description>
+  <url>https://github.com/pavel-luhin/websms-api</url>
+  <licenses>
+    <license>
+      <name>MIT</name>
+    </license>
+  </licenses>
+
   <build>
     <plugins>
       <plugin>
@@ -126,9 +136,17 @@
     </contributor>
   </contributors>
 
+  <developers>
+    <developer>
+      <id>pluhin</id>
+      <name>Pavel Luhin</name>
+      <email>pavel.luhin@gmail.com</email>
+    </developer>
+  </developers>
+
   <scm>
     <connection>scm:git:git://github.com/pluhin/websms-api.git</connection>
-    <developerConnection>scm:git:git@github.com:dexecutor/dexecutor.git</developerConnection>
+    <developerConnection>scm:git:git@github.com:pluhin/websms-api.git</developerConnection>
     <url>https://github.com/pluhin/websms-api</url>
     <tag>HEAD</tag>
   </scm>
