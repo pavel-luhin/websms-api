@@ -4,7 +4,7 @@
 
   <groupId>com.pluhin.api</groupId>
   <artifactId>websms-api</artifactId>
-  <version>1.1</version>
+  <version>1.2-SNAPSHOT</version>
 
   <name>WebSms Api</name>
   <description>Api methods to access websms.by</description>
@@ -148,7 +148,7 @@
     <connection>scm:git:git://github.com/pluhin/websms-api.git</connection>
     <developerConnection>scm:git:git@github.com:pluhin/websms-api.git</developerConnection>
     <url>https://github.com/pluhin/websms-api</url>
-    <tag>websms-api-1.1</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <dependencies>
