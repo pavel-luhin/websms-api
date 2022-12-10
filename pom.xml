@@ -11,7 +11,7 @@
   <url>https://github.com/pavel-luhin/websms-api</url>
 
   <properties>
-    <spring.version>5.2.1.RELEASE</spring.version>
+    <spring.version>6.0.0</spring.version>
     <jackson.version>2.10.1</jackson.version>
     <junit.version>5.5.2</junit.version>
   </properties>
